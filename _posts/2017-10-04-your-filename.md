@@ -3,6 +3,7 @@ layout: inner
 date: '2017-10-04 13:11 -0400'
 categories: '- Anuncios'
 published: false
+title: ¡ARRANCA EL P2P INTERBANCARIO EN VENEZUELA! 
 ref: P2P Banca+
 lang:
   - es
