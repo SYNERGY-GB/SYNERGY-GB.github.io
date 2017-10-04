@@ -20,7 +20,7 @@ tags:
   - BNC Banco Nacional de Crédito
 local_featured_image: BannerP2P_3.png
 author: José Rivera
-author_pic: Jose_Rivera.png
+author_pic: Jose_Rivera.jpg
 author_email: jose.rivera@synergy-gb.com
 lead_text: >-
   En la primera semana de Octubre arrancó el plan piloto del sistema de “Pago
