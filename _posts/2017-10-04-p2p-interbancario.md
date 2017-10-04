@@ -2,8 +2,8 @@
 layout: inner
 date: '2017-10-04 13:11 -0400'
 categories: '- Anuncios'
-published: false
-title: ¡ARRANCA EL P2P INTERBANCARIO EN VENEZUELA! 
+published: true
+title: ¡ARRANCA EL P2P INTERBANCARIO EN VENEZUELA!
 ref: P2P Banca+
 lang:
   - es
@@ -42,4 +42,3 @@ Este producto con esta visión pionera para el mercado venezolano fue realizada 
 **“BANCA+ p2p”** producto **bySynergyGB** es la mejor opción _Time to Value_ en el mercado !!
 
 [Contáctanos a través de nuestra página web](http://synergy-gb.com/newsgb/index.php#contactanosindex) y solicita una visita de un representante de [**SYNERGY-GB**](http://synergy-gb.com/newsgb/index.php#contactanosindex) para que conozcas en detalle de nuestra propuesta de valor.
-
