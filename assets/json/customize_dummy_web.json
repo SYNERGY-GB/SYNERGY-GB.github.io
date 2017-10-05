@@ -1,0 +1,205 @@
+{
+  "styles" : {
+    "default": {
+      "font-family": "",
+      "font-size": "",
+      "color": "",
+      "font-weight": ""
+    },
+
+    "title": {
+      "font-family": "",
+      "font-size": "",
+      "color": "",
+      "font-weight": ""
+    },
+
+    "highlightText": {
+      "font-family": "",
+      "font-size": "",
+      "color": "",
+      "font-weight": ""
+    },
+
+    "backButton" : {
+      "background-color": "",
+      "color": "",
+      "font-size": "",
+      "font-weight": "",
+      "border": "",
+      "border-radius": "",
+      "ghost-hover-color": ""
+    },
+
+    "infoButton": {
+      "background-color": "",
+      "color": "",
+      "font-size": "",
+      "font-weight": "",
+      "border": "",
+      "border-radius": "",
+      "ghost-hover-color": ""
+    },
+
+    "cancelButton" : {
+      "background-color": "",
+      "color": "",
+      "font-size": "",
+      "font-weight": "",
+      "border": "",
+      "border-radius": "",
+      "ghost-hover-color": ""
+    },
+
+    "nextButton" : {
+      "background-color": "",
+      "color": "",
+      "font-size": "",
+      "font-weight": "",
+      "border": "",
+      "border-radius": "",
+      "ghost-hover-color": ""
+    },
+
+    "saveButton" : {
+      "background-color": "",
+      "color": "",
+      "font-size": "",
+      "font-weight": "",
+      "border": "",
+      "border-radius": "",
+      "ghost-hover-color": ""
+    },
+
+    "acceptButton" : {
+      "background-color": "",
+      "color": "",
+      "font-size": "",
+      "font-weight": "",
+      "border": "",
+      "border-radius": "",
+      "ghost-hover-color": ""
+    },
+
+    "sectionTitle" : {
+      "font-family":"",
+      "font-size":"",
+      "color": "",
+      "font-weight": ""
+    },
+
+    "sideBar" : {
+      "background-image":"",
+      "background-color":"",
+      "font-size":"",
+      "color": "",
+      "text-align":"",
+      "font-weight": ""
+    },
+
+    "sideBarActiveElement": {
+      "background-color": "",
+      "color": "",
+      "font-weight": ""
+    },
+
+    "topNavBar" : {
+      "background-image": "",
+      "background-color": "",
+      "color": ""
+    },
+
+    "panel": {
+      "header": {
+        "background-color": "",
+        "color": ""
+      },
+      "body": {
+        "background-color": "",
+        "color": ""
+      }
+    },
+
+    "step": {
+      "background-color": "",
+      "color": "",
+      "border-radius": "",
+      "border": ""
+    }
+  },
+
+  "resources": {
+    "login_background_image": "",
+    "app_background_image": "",
+    "modal_logo_image": "",
+    "modal_advertising_image": "",
+    "header_advertising_image": "",
+    "sidebar_advertising_image": "",
+    "access_isotype_image": "",
+    "access_logotype_image": "",
+    "sidebar_logotype_image": "",
+    "sidebar_isotype_image": "",
+    "sidebar_background_image": ""
+  },
+
+  "links": {
+    "modal_advertising_link": "",
+    "header_advertising_link": "",
+    "sidebar_advertising_link": ""
+  },
+
+  "icons": {
+    "global": {
+      "help": "",
+      "info": "",
+      "search": "",
+      "notification": "",
+      "mailbox": "",
+      "logout": "",
+      "empty_content": "",
+      "favorite": "",
+      "password": "",
+      "download": "",
+      "share": "",
+      "profile": "",
+      "buttons": {
+        "prev": "",
+        "next": "",
+        "cancel": "",
+        "save": "",
+        "accept": "",
+        "profile": "",
+        "register": "",
+        "add": ""
+      }
+    },
+    "statement": {
+      "container_left": "",
+      "container_right": "",
+      "moves_list": "",
+      "moves_map": "",
+      "move_detail": ""
+    },
+    "transfers": {
+      "container_left": "",
+      "container_right": "",
+      "frequent": "",
+      "favorite": ""
+    },
+    "beneficiaries": {
+      "container_left": "",
+      "container_right": "",
+      "delete": ""
+    },
+    "requests_dates": {
+      "container_left": "",
+      "container_right": "",
+      "terms_conditions": ""
+    },
+    "products": {
+      "container_left": "",
+      "container_right": ""
+    }
+
+  }
+}
