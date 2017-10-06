@@ -1,7 +1,7 @@
 ---
 layout: inner
 date: '2017-10-04 13:11 -0400'
-categories: '- Anuncios'
+categories: 'Anuncios'
 published: true
 title: ¡ARRANCA EL P2P INTERBANCARIO EN VENEZUELA!
 ref: P2P Banca+
@@ -18,7 +18,7 @@ tags:
   - iOS
   - Mercantil Banco
   - BNC Banco Nacional de Crédito
-local_featured_image: BannerP2P_3.png
+local_featured_image: p2p.jpg
 author: José Rivera
 author_pic: Jose_Rivera.jpg
 author_email: jose.rivera@synergy-gb.com
@@ -29,6 +29,7 @@ lead_text: >-
   el número de teléfono celular asociado al banco y sus datos de identificación
   personal.
 ---
+
 ## p2p News
 
 **SUDEBAN** (Superintendencia de las Instituciones del Sector Bancario) informó a través de una nota de prensa el plan piloto del **“Pago Móvil Interbancario (p2p Interbancario)”**. Este nuevo sistema facilitará el menudeo diario de transacciones de efectivo y disminuirá la afluencia de clientes en las entidades bancarias.
