@@ -24,9 +24,9 @@
     <meta property="og:type" content="article" />
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% elsif page.abstract %}{{ page.abstract }}{% elsif page.lead_text %}{{ page.lead_text }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-    <meta property="og:image" content="{% if page.local_featured_image %}{{ page.local_featured_image }}{% else %}{{ site.logostrdata | prepend: site.images_url | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
+    <meta property="og:image" content="{% if page.local_featured_image %}{{ page.local_featured_image | prepend: site.data.global.url }}{% else %}{{ site.data.global.logo | prepend: site.data.global.url }}{% endif %}" />
     <meta property="og:image:width" content="600" />
-<meta property="og:image:height" content="315" />
+    <meta property="og:image:height" content="315" />
     <meta property="og:site_name" content="{{ site.title }}" />
 
     {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
