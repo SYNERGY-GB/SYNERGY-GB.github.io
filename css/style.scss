@@ -365,3 +365,23 @@ pre {
         line-height: 35px;
     }
 }
+
+
+.share-button{
+  position: relative;
+  height: 20px;
+  box-sizing: border-box;
+  padding: 1px 8px 1px 6px;
+  border-radius: 3px;
+  font-weight: 500;
+  cursor: pointer;
+}
+a .fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+a .fa-facebook-official {
+  background: #3b5998;
+  color: white;
+}

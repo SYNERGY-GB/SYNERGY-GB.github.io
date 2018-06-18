@@ -1,0 +1,12 @@
+{% include tweet-share.html %} {% include tweet-follow.html %}
+<a  href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title={% if post.title %}{{ post.title }} &middot; {{ site.data.global.title }}{% elsif page.title %}{{ page.title }} &middot; {{ site.data.global.title }}{% endif %}&summary={{ post.lead_text }}{{page.lead_text}}&source={{ post.title }}{{page.title}}" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+    title="Share on LinkedIn" >
+    <i class="fa fa-linkedin share-button"> Linkedin</i>
+</a>
+{% if page.layout contains 'inner' %}
+  <a  href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+      onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+      title="Share on Facebook" >
+      <i class="fa fa-facebook-official share-button"> facebook</i>
+  </a>
+{% endif %}

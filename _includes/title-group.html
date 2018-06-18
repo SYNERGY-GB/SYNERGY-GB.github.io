@@ -41,7 +41,18 @@
                  <span><a href="/cat/{{ category }}.html">{{ category }}</a></span>
             {% endfor %}
         {% endif %}
-        &middot; {% include tweet-share.html %} {% include tweet-follow.html %}
+        &middot;
+        {% if post.categories contains 'Productos' or page.categories contains 'Productos' %}
+          {% include share-products.html  %}
+        {% elsif post.categories contains 'Anuncios' or page.categories contains 'Anuncios' %}
+          {% include share-announcement.html  %}
+        {% elsif post.categories contains 'Campaña' or page.categories contains 'Campaña' %}
+          {% include share-campaign.html  %}
+        {% elsif post.categories contains 'Conocimientos' or page.categories contains 'Conocimientos' %}
+          {% include share-knowledge.html  %}
+        {% elsif post.categories contains 'Miscelaneos' or page.categories contains 'Miscelaneos'%}
+          {% include share-miscellaneous.html %}
+        {% endif %}
     </aside>
     {% endif %}
     <p class="excerpt">

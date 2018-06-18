@@ -15,7 +15,18 @@
                     <span><a href="/cat/{{ category }}.html">{{ category }}</a></span>
                 {% endfor %}
             {% endif %}
-            &middot; {% include tweet-share.html %} {% include tweet-follow.html %}
+            &middot;
+            {% if post.categories contains 'Productos' %}
+              {% include share-products.html  %}
+            {% elsif post.categories contains 'Anuncios'%}
+              {% include share-announcement.html  %}
+            {% elsif post.categories contains 'Campaña'%}
+              {% include share-campaign.html  %}
+            {% elsif post.categories contains 'Conocimientos'%}
+              {% include share-knowledge.html  %}
+            {% elsif post.categories contains 'Miscelaneos'%}
+              {% include share-miscellaneous.html %} 
+            {% endif %}
         </aside>
 
         <div style="display: inline;">
@@ -46,7 +57,7 @@
         {% endif %}
 
         <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" class="read-more btn btn-info btn-lg">
-            {{ site.data.text.more[page.lang] }} 
+            {{ site.data.text.more[page.lang] }}
             <i class="fa fa-angle-right"></i>
         </a>
     </div>

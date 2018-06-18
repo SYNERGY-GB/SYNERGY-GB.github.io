@@ -22,10 +22,10 @@ unpublished: false
 
 # Plugins
 whitelist: []
-gems:      [jekyll-paginate]
+gems: [jekyll-paginate]
 
 # Conversion
-markdown:    kramdown
+#markdown:    kramdown
 #highlighter: pygments
 lsi:         false
 excerpt_separator: "\n\n"
@@ -46,21 +46,21 @@ rdiscount:
 redcarpet:
   extensions: []
 
-kramdown:
-  auto_ids:       true
-  footnote_nr:    1
-  entity_output:  as_char
-  toc_levels:     1..6
-  smart_quotes:   lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
+#kramdown:
+#  auto_ids:       true
+#  footnote_nr:    1
+#  entity_output:  as_char
+#  toc_levels:     1..6
+#  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+#  enable_coderay: false
 
-  coderay:
-    coderay_wrap:              div
-    coderay_line_numbers:      inline
-    coderay_line_number_start: 1
-    coderay_tab_width:         4
-    coderay_bold_every:        10
-    coderay_css:               style
+#  coderay:
+#    coderay_wrap:              div
+#    coderay_line_numbers:      inline
+#    coderay_line_number_start: 1
+#    coderay_tab_width:         4
+#    coderay_bold_every:        10
+#    coderay_css:               style
 
 
 include: ['_pages']
@@ -68,12 +68,12 @@ include: ['_pages']
 prose:
   rooturl: '_posts'
   metadata:
-    _posts: 
+    _posts:
       - name: layout
         field:
           element: hidden
           value: inner
-      - name: date 
+      - name: date
         field:
           element: text
           label: Fecha de la Publicación
@@ -91,7 +91,7 @@ prose:
           alterable: true
           options:
             - name: Español
-              value: es 
+              value: es
             - name: Ingles
               value: en
       - name: categories
@@ -100,15 +100,21 @@ prose:
           label: Escoja la categoría de su Publicación
           options:
             - name: Anuncios
-              value: "- Anuncios"
+              value: "Anuncios"
             - name: Productos
-              value: "- Productos"
+              value: "Productos"
+            - name: Campaña
+              value: "Campaña"
+            - name: Conocimientos
+              value: "Conocimientos"
+            - name: Misceláneos
+              value: "Miscelaneos"
       - name: tags
         field:
           element: multiselect
           label: Escoja la(s) etiquetas de su Publicación
           help: Puede escojer una o mas etiquetas
-          alterable: true 
+          alterable: true
       - name: local_featured_image
         field:
           element: text
@@ -118,12 +124,12 @@ prose:
         field:
           element: text
           label: Ingrese el nombre del autor
-          placeholder: Nombre y apellido 
+          placeholder: Nombre y apellido
       - name: author_pic
         field:
           element: text
           label: Ingrese la imagen para el Autor de la Publicación
-          placeholder: Nombre del archivo.jpg o png etc...   
+          placeholder: Nombre del archivo.jpg o png etc...
       - name: author_email
         field:
           element: text
@@ -132,5 +138,5 @@ prose:
       - name: lead_text
         field:
           element: textarea
-          label: Ingrese una Pequeña Descripción de su Publicacion 
+          label: Ingrese una Pequeña Descripción de su Publicacion
           placeholder: "Lorem ipsum dolor sit amet, turpis gravida ac apien mattis egestas vestibulum, morbi proin, interdum quis sed amet elit ultrices. Id in. Morbi id. ..."

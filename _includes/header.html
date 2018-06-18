@@ -18,6 +18,13 @@
     <!-- RSS -->
     <link rel="alternate" type="application/rss+xml" title="{{ site.data.global.title }} ♥ {{ site.data.global.description }}" href="{{ site.data.global.url }}/feed.xml">
     <link rel="alternate" type="application/atom+xml" title="{{ site.data.global.title }} ♥ {{ site.data.global.description }}" href="{{ site.data.global.url }}/atom.xml">
+    <!--Meta tags-->
+    <meta property="og:title" content="{% if page.course-title %}{{ page.course-title }}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% elsif page.abstract %}{{ page.abstract }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+    <meta property="og:image" content="{% if page.image %}{{ page.image | prepend: site.images_url | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logostrdata | prepend: site.images_url | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
+    <meta property="og:site_name" content="{{ site.title }}" />
 
     {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
     {% for post in posts %}
@@ -85,5 +92,3 @@
             </div>
         </div>
     </nav>
-
-
