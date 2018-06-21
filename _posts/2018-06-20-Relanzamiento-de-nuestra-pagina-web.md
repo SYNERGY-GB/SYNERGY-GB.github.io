@@ -27,9 +27,6 @@ Actualmente estamos presentes en _**Instagram**_, _**Linkedin**_, _**Facebook**_
 
 Te invitamos a seguirnos y conocer nuestras novedades.
 
-…… Footer ………………………………………….
-
 Son millones de usuarios que utilizan nuestra aplicaciones Bancarias en Latinoamérica, que se benefician de una experiencia funcional y enriquecida. 
 
 Visita [nuestra página principal http://synergy-gb.com](http://synergy-gb.com) y entérate de nuestra propuesta de valor.
-…… Imagen  ………………………………………….
