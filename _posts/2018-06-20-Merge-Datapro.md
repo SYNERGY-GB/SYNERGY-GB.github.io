@@ -2,7 +2,7 @@
 layout: inner
 date: '2018-06-20 22:23 -0400'
 categories: Anuncios
-published: false
+published: true
 ref: MERGE DATAPRO & SYNERGY-GB
 lang:
   - es
@@ -32,5 +32,3 @@ La incorporación de **Datapro** como accionista de  **Synergy-GB** busca conver
 **DATAPRO & SYNERGY-GB ** es la mejor opción _Time to Value_ en el mercado !!
 
 [Contáctanos a través de nuestra página web](http://synergy-gb.com/newsgb/index.php#contactanosindex) y solicita una visita de un representante de [**SYNERGY-GB**](http://synergy-gb.com/newsgb/index.php#contactanosindex) para que conozcas en detalle de nuestra propuesta de Valor.
-
-
