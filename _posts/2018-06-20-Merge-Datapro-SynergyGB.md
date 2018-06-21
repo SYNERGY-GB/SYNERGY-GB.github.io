@@ -29,7 +29,6 @@ El pasado 27 de Abril se reunieron en la ciudad de Miami, la junta directiva de 
 La incorporación de **Datapro** como accionista de  **Synergy-GB** busca convertirnos en la piedra angular de la transformación digital de la Banca Digital en Latinoamérica con una propuesta muy innovadora  a nivel de experiencia de usuario.
 
 
-
-**DATAPRO & SYNERGY-GB ** es la mejor opción _Time to Value_ en el mercado !!
+**DATAPRO** & **SYNERGY-GB** es la mejor opción _Time to Value_ en el mercado !!
 
 [Contáctanos a través de nuestra página web](http://synergy-gb.com/newsgb/index.php#contactanosindex) y solicita una visita de un representante de [**SYNERGY-GB**](http://synergy-gb.com/newsgb/index.php#contactanosindex) para que conozcas en detalle de nuestra propuesta de Valor.
