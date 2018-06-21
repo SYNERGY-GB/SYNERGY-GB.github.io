@@ -2,7 +2,7 @@
 layout: inner
 date: '2018-06-20 23:35 -0400'
 categories: Anuncios
-published: false
+published: true
 ref: 'NOTICIA #2: RELANZAMIENTO DE NUESTRA PAGINA WEB'
 lang:
   - es
@@ -33,6 +33,3 @@ Son millones de usuarios que utilizan nuestra aplicaciones Bancarias en Latinoam
 
 Visita [nuestra página principal http://synergy-gb.com](http://synergy-gb.com) y entérate de nuestra propuesta de valor.
 …… Imagen  ………………………………………….
-
-
-
