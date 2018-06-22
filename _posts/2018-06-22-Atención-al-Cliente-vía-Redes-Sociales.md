@@ -34,8 +34,8 @@ Veamos algunos datos interesantes:
 
 Ante esta realidad, los bancos están poniendo a disposición de los clientes canales de atención a sus clientes vía las Redes Sociales (RRSS) para facilitar la interacción entre ambos. 
  
-![Gráfico #2](/img/blog-06.png)
-****Gráfico Nro1****
+![Gráfico #2](/img/blog-03.png)
+****Gráfico Nro2****
 
 Como se muestra en el gráfico anterior, a pesar que los bancos entienden que DEBEN estar en estas plataformas (ya que sus clientes están presentes en ellas) el problema radica en realizar la selección de cuál de ellas de acuerdo al uso que se le piense dar. Cada una tiene sus atributos, sus funcionalidades, sus públicos e incluso sus tonos.
 
