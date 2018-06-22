@@ -2,7 +2,7 @@
 layout: inner
 date: '2018-06-21 23:30 -0400'
 categories: Conocimientos
-published: false
+published: true
 ref: 'Páginas estáticas en el Home Banking: llegó su momento '
 lang:
   - es
@@ -54,6 +54,3 @@ Ya hemos implementado varias páginas web para nuestros clientes con esta arquit
 Son millones de usuarios que utilizan nuestra aplicaciones Bancarias en Latinoamérica, que se benefician de una experiencia funcional y enriquecida. 
 
 Visita [nuestra página principal http://synergy-gb.com](http://synergy-gb.com) y entérate de nuestra propuesta de valor.
-
- 
-
