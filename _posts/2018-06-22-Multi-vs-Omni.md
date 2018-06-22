@@ -2,7 +2,7 @@
 layout: inner
 date: '2018-06-22 09:14 -0400'
 categories: Conocimientos
-published: false
+published: true
 lang:
   - es
 lead_text: >-
@@ -61,4 +61,3 @@ Afortunadamente esta situación poco a poco está cambiando. Las empresas cuya e
 Son millones de usuarios que utilizan nuestra aplicaciones Bancarias en Latinoamérica, que se benefician de una experiencia funcional y enriquecida. 
 
 Visita [nuestra página principal http://synergy-gb.com](http://synergy-gb.com) y entérate de nuestra propuesta de valor.
-
