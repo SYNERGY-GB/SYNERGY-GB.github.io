@@ -2,7 +2,7 @@
 layout: inner
 date: '2018-06-22 00:02 -0400'
 categories: Productos
-published: false
+published: true
 lang:
   - es
 tags:
@@ -71,5 +71,3 @@ En definitiva todo es parte del mismo recorrido, que no es otro que el de incorp
 **“SOCIAL+”** producto **bySynergyGB** es la mejor opción _Time to Value_ en el mercado para manejar las RRSS como canales de atención de clientes bancarios !!
 
 [Contáctanos a través de nuestra página web](http://synergy-gb.com/newsgb/index.php#contactanosindex) y solicita una visita de un representante de [**SYNERGY-GB**](http://synergy-gb.com/newsgb/index.php#contactanosindex) para que conozcas en detalle de nuestra propuesta de valor.
-
-
