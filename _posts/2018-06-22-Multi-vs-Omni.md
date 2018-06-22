@@ -14,7 +14,7 @@ tags:
   - Omnicanal
   - SYNERGY-GB
   - DATAPRO
-local_featured_image: banners-03.jpg
+local_featured_image: banners-04.jpg
 author: José Rivera
 author_pic: Jose_Rivera.jpg
 author_email: jose.rivera@synergy-gb.com
