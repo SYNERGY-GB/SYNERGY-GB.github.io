@@ -33,6 +33,7 @@ Veamos algunos datos interesantes:
 •	Hay 1 millón de usuarios activos de redes sociales en móviles nuevos cada día.
 
 Ante esta realidad, los bancos están poniendo a disposición de los clientes canales de atención a sus clientes vía las Redes Sociales (RRSS) para facilitar la interacción entre ambos. 
+
  
 ![Gráfico #1](/img/blog-06.jpeg)
 ****Gráfico Nro1****
