@@ -5,8 +5,7 @@ date: '2017-05-03 11:02 -0400'
 categories: Anuncios
 published: true
 ref: 10añosSynergyGB
-lang:
-  - es
+lang: es
 tags:
   - Synergy-GB
 local_featured_image: 10ANIVbanner-01.png
@@ -26,10 +25,10 @@ Nos sentimos muy agradecidos por todos aquellos que contribuyeron de una u otra 
 
 Logramos hacer realidad nuestra familia de productos **_BySynergyGB_** y seguimos adelante con ellos, que será el pilar fundamental para los próximos años de proyección internacional.
 
-Quiero aprovechar la oportunidad para dar las gracias a todos aquellos que nos acompañaron en este transitar de diez años, y recordarles que **SYNERGY-GB** somos todos. Gracias y seguimos adelante ! 
+Quiero aprovechar la oportunidad para dar las gracias a todos aquellos que nos acompañaron en este transitar de diez años, y recordarles que **SYNERGY-GB** somos todos. Gracias y seguimos adelante !
 
-………………………………………………………………… 
+…………………………………………………………………
 
-Son millones de usuarios que utilizan nuestra aplicaciones en Venezuela, Panamá, República Dominicana y Puerto Rico, que se benefician de una experiencia funcional y enriquecida. 
+Son millones de usuarios que utilizan nuestra aplicaciones en Venezuela, Panamá, República Dominicana y Puerto Rico, que se benefician de una experiencia funcional y enriquecida.
 
 Visita [nuestra página principal http://synergy-gb.com](http://synergy-gb.com) y entérate de nuestra propuesta de valor.

@@ -4,8 +4,7 @@ date: '2018-06-20 22:23 -0400'
 categories: Anuncios
 published: true
 ref: MERGE DATAPRO & SYNERGY-GB
-lang:
-  - es
+lang: es
 tags:
   - MERGE
   - DATAPRO

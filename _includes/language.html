@@ -1,15 +1,19 @@
 <ul class="list-unstyled ul-language">
-{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-{% for post in posts %}
+  {% if page.layout contains 'inner' %}
+  {% assign posts=site.posts | where:"ref", page.ref  %}
+  {% for post in posts | sort: 'lang' %}
   <li>
-    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a> {% unless forloop.last %} | {% endunless %} 
+    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a> {% unless forloop.last %} | {% endunless %}
   </li>
-{% endfor %}
-
-{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-{% for page in pages %}
-  <li>
-    <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a> {% unless forloop.last %} | {% endunless %} 
-  </li>
-{% endfor %}
+  {% endfor %}
+{% endif %}
+{% if page.layout contains 'default' %}
+  {% assign pages=site.pages | where:"ref", page.ref %}
+  {{ page.ref }}
+  {% for page in pages | sort: 'lang' %}
+    <li>
+      <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a> {% unless forloop.last %} | {% endunless %}
+    </li>
+  {% endfor %}
+{% endif %}
 </ul>

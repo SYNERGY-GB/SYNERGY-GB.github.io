@@ -3,8 +3,7 @@ layout: inner
 date: '2018-06-22 00:02 -0400'
 categories: Productos
 published: true
-lang:
-  - es
+lang: es
 tags:
   - SOCIAL+
   - ATENCION AL CLIENTE
@@ -21,7 +20,7 @@ local_featured_image: banners-05.jpg
 ---
 Es una realidad incuestionable el aumento exponencial en el uso de los canales digitales por parte de los clientes bancarios para el manejo de su dinero y es incuestionable también que dichos clientes quieran resolver todas las gestiones relacionadas con el banco también a través de los medios digitales. Particularmente las Redes Sociales (RRSS) son protagonistas de esta evolución!
 
-En la evolución de su interrelación con otros individuos, las personas han migrado mayoritariamente su comunicación a través de las redes sociales. Es tanto así que las redes sociales han pasado a ser casi un requisito imprescindible para comunicarnos, y algunos lo han asumido inclusive en forma adictiva. 
+En la evolución de su interrelación con otros individuos, las personas han migrado mayoritariamente su comunicación a través de las redes sociales. Es tanto así que las redes sociales han pasado a ser casi un requisito imprescindible para comunicarnos, y algunos lo han asumido inclusive en forma adictiva.
 
 Un evidencia de lo anterior, es que navegar por las redes sociales es la actividad n°1 en la web.
 
@@ -32,15 +31,15 @@ Veamos algunos datos interesantes:
 •	Los usuarios de internet tienen 5,54 cuentas en redes sociales de promedio.
 •	Hay 1 millón de usuarios activos de redes sociales en móviles nuevos cada día.
 
-Ante esta realidad, los bancos están poniendo a disposición de los clientes canales de atención a sus clientes vía las Redes Sociales (RRSS) para facilitar la interacción entre ambos. 
+Ante esta realidad, los bancos están poniendo a disposición de los clientes canales de atención a sus clientes vía las Redes Sociales (RRSS) para facilitar la interacción entre ambos.
 
- 
+
 ![Gráfico #1](/img/blog-06.jpeg)
 ****Gráfico Nro1****
 
 Como se muestra en el gráfico anterior, a pesar que los bancos entienden que DEBEN estar en estas plataformas (ya que sus clientes están presentes en ellas) el problema radica en realizar la selección de cuál de ellas de acuerdo al uso que se le piense dar. Cada una tiene sus atributos, sus funcionalidades, sus públicos e incluso sus tonos.
 
-Sin entrar en detalles y en la línea de lo que venimos conversando, se ha demostrado que Twitter se ha convertido en la red social de consumo masivo donde los usuarios expresan de manera rápida sus ideas, quejas, reclamos y buscan ser atendidos de manera efectiva, por lo que resulta fundamental su seguimiento tanto para saber qué pasa con nuestra empresa en boca de sus clientes como para solucionar problemas. 
+Sin entrar en detalles y en la línea de lo que venimos conversando, se ha demostrado que Twitter se ha convertido en la red social de consumo masivo donde los usuarios expresan de manera rápida sus ideas, quejas, reclamos y buscan ser atendidos de manera efectiva, por lo que resulta fundamental su seguimiento tanto para saber qué pasa con nuestra empresa en boca de sus clientes como para solucionar problemas.
 
 Cada día hay más empresas que crear cuentas de Twitter específicamente para atender estas incidencias y consultas. Gestionar esta red como canal de atención al cliente, ofrece todas las bondades para una buena gestión de la comunidad que interactúa con la empresa, brindando una atención al cliente eficiente.
 
@@ -64,7 +63,7 @@ Dentro de sus características podemos enumerar las siguientes:
 •	Innova en los canales de comunicación con tus clientes.
 •	Puede ser utilizado como un canal para promover los productos y servicios de la empresa.
 
-Para terminar resulta interesante comentar cómo aquellas Bancos que han puesto el foco en sus procesos de atención vía RRSS, también lo tienen puesto de forma simultánea en la gestión del conocimiento del cliente y su experiencia con su marca. 
+Para terminar resulta interesante comentar cómo aquellas Bancos que han puesto el foco en sus procesos de atención vía RRSS, también lo tienen puesto de forma simultánea en la gestión del conocimiento del cliente y su experiencia con su marca.
 
 En definitiva todo es parte del mismo recorrido, que no es otro que el de incorporar la gestión y el conocimiento del cliente como parte de la cultura organizacional de la compañía.
 

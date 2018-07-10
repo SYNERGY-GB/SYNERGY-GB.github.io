@@ -29,8 +29,8 @@
     <meta property="og:image:height" content="315" />
     <meta property="og:site_name" content="{{ site.title }}" />
 
-    {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-    {% for post in posts %}
+    {% assign posts=site.posts | where:"ref", page.ref %}
+    {% for post in posts | sort: 'lang'  %}
     <link rel="alternate" hreflang="{{ post.lang }}" href="{{ post.url }}" />
     {% endfor %}
     {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
