@@ -9,7 +9,6 @@
 {% endif %}
 {% if page.layout contains 'default' %}
   {% assign pages=site.pages | where:"ref", page.ref %}
-  {{ page.ref }}
   {% for page in pages | sort: 'lang' %}
     <li>
       <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a> {% unless forloop.last %} | {% endunless %}
