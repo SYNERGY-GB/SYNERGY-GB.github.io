@@ -25,7 +25,7 @@ lead_text: >-
   futuro.
 ---
 
-“Blockchain y Omnichannel: una llave ganadora !!”
+## “Blockchain y Omnichannel: una llave ganadora !!”
 
 
 En este momento, especular sobre el futuro de **Blockchain** es como tratar de predecir el futuro de la World Wide Web en 1993. Es demasiado pronto para decirlo con certeza, pero al menos podemos estar razonablemente seguros de que continuará creciendo a medida que aumente y se encuentran más casos de uso para esta nueva tecnología. Mientras tanto, todo lo que podemos hacer es mirar, analizar, aprender e imaginar.
