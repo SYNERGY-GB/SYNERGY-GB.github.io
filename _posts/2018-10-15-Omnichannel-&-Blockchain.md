@@ -61,7 +61,7 @@ Lo que recomendamos es avanzar inicialmente con una prueba de concepto (**PoC**)
 Es un poco difícil ver en este momento a dónde irán las posibilidades, pero sin duda, la conexión **Blockchain** & **Omnichannel** es una buena apuesta en el futuro. 
 
 
-En [Synergy-GB][1] seguimos comprometidos en la línea de generar valor a nuestros clientes, ya nos mueve el profundo respeto que les tenemos.
+En [Synergy-GB][1] seguimos comprometidos en la línea de generar valor a nuestros clientes, ya que nos mueve el profundo respeto que les tenemos.
 
 
 
