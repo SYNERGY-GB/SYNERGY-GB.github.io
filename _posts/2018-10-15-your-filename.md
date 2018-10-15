@@ -1,8 +1,28 @@
 ---
 layout: inner
 date: '2018-10-15 13:35 -0400'
-categories: Anuncios
+categories: Conocimientos
 published: false
+ref: Omnichannel & Blockchain
+lang:
+  - es
+tags:
+  - Omnichannel
+  - Blockchain
+  - Banking
+  - Trends
+  - Latinoamérica
+  - Latam
+  - Innovación
+  - Synergy-GB
+local_featured_image: Block_y_Omni.jpg
+author: José Rivera
+author_pic: Jose_Rivera.jpg
+author_email: jose.rivera@synergy-gb.com
+lead_text: >-
+  Es un poco difícil ver en este momento a dónde irán las posibilidades, pero
+  sin duda, la conexión **Blockchain** & **Omnichannel** es una buena apuesta en
+  el futuro.
 ---
 ## “Blockchain y Omnichannel: una llave ganadora !!”
 
