@@ -3,7 +3,8 @@ layout: inner
 date: '2018-06-22 09:14 -0400'
 categories: Conocimientos
 published: true
-lang: es
+lang:
+  - es
 lead_text: >-
   Multicanalidad a la Omnicanalidad ¿Podemos construir un Roadmap de con
   victorias tempranas y frecuentes en el camino?.
