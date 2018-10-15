@@ -2,7 +2,7 @@
 layout: inner
 date: '2018-10-15 13:35 -0400'
 categories: Conocimientos
-published: false
+published: true
 ref: Omnichannel & Blockchain
 lang:
   - es
