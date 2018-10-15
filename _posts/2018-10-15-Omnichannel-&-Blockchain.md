@@ -21,8 +21,8 @@ author_pic: Jose_Rivera.jpg
 author_email: jose.rivera@synergy-gb.com
 lead_text: >-
   Es un poco difícil ver en este momento a dónde irán las posibilidades, pero
-  sin duda, la conexión **Blockchain** & **Omnichannel** es una buena apuesta en
-  el futuro.
+  sin duda, la conexión 'Blockchain' & 'Omnichannel' es una buena apuesta en el
+  futuro.
 ---
 ## “Blockchain y Omnichannel: una llave ganadora !!”
 
