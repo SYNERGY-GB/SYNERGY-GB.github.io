@@ -2,7 +2,7 @@
 layout: inner
 date: '2018-12-03 13:24 -0400'
 categories: Conocimientos
-published: false
+published: true
 ref: Scala & Akka
 lang:
   - es
