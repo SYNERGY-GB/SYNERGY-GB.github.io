@@ -2,7 +2,7 @@
 layout: inner
 date: '2018-12-03 13:24 -0400'
 categories: Conocimientos
-published: false
+published: true
 ref: Scala & Akka
 lang:
   - es
@@ -80,5 +80,3 @@ En [Synergy-GB][1] seguimos comprometidos en la línea de generar valor a nuestr
 
 [1]: http://synergy-gb.com "Synergy-GB Web Page"
 [2]: http://blog.synergy-gb.com "Synergy-GB Blog"
-
-
