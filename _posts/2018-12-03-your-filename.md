@@ -4,17 +4,25 @@ date: '2018-12-03 17:05 -0400'
 categories: Anuncios
 published: false
 ---
-##El Gran dilema entre el paradigma On Premise y el On Cloud (SaaS) en un canal digital Bancario##
+## El Gran dilema entre el paradigma On Premise y el On Cloud (SaaS) en un canal digital Bancario
 
-Las olas disruptivas de los ambientes computacionales en la nube, con tasas de adopción cada vez mayores ha alcanzado a todas las áreas del negocio de software ERP, CRM, BI, Seguridad, Comunicaciones, Banca, entre otras, son plataformas que están ya preparadas para ser consumidas desde la nube, como servicio. Los retos de la industria financiera en Latinoamérica, aunado a la democratización de Internet, al acceso y uso masivo de teléfonos celulares, dispositivos móviles y la reducción de los costos mediante la implantación de canales digitales hacen que la inclusión financiera general en Latinoamérica sea una realidad tangible que requiere adoptar tecnologías que le permitan lograr ventajas competitivas en temas de colaboración, analítica y en la mejora de la agilidad en el mercado para acelerar el tiempo de lanzamiento de sus productos y servicios. 
+Las olas disruptivas de los ambientes computacionales en la nube, (con tasas de adopción cada vez mayores) han alcanzado a todas las áreas del negocio de software (ERP, CRM, BI, Seguridad, Comunicaciones, Banca, entre otras). Son plataformas que están ya preparadas para ser consumidas desde la nube, como servicio. 
+
+Los retos de la industria financiera en Latinoamérica, aunado a la democratización de Internet, al acceso y uso masivo de teléfonos celulares, dispositivos móviles y la reducción de los costos mediante la implantación de canales digitales, hacen que la inclusión financiera general en Latinoamérica sea una realidad tangible que requiere adoptar tecnologías que le permitan lograr ventajas competitivas en temas de colaboración, analítica y en la mejora de la agilidad en el mercado para acelerar el tiempo de lanzamiento de sus productos y servicios. 
+
+![Gráfico #1](/img/Grafico1_Mod_Negocio.png)
+**_Gráfico#1_**
+
+El gasto mundial de TI se estima en un total de 3.7 billones de dólares en el 2018, lo que significa un aumento del 4.5% con respecto al 2017, según el último pronóstico de la consultora Gartner. Dentro de las tendencias el software empresarial continúa mostrando un sólido crecimiento, con un **gasto mundial de software que creció un 9,5% en 2018**, y **crecerá otro 8,4% en 2019** hasta llegar a un total de $ 421 mil millones. En el pronóstico se espera que las organizaciones aumenten el gasto en software de aplicaciones empresariales en 2019, y que **una mayor parte del presupuesto se traslade al software como servicio (SaaS)**. 
+
+La creciente disponibilidad de soluciones basadas **OnCloud(SaaS)** está fomentando nuevas adopciones y gastos en muchas subcategorías, como los sistemas de gestión financiera, la gestión del capital humano y las aplicaciones analíticas. Por lo tanto, confiar en las capacidades técnicas de gigantes de la industria como Amazon, Microsoft y Google para sustentar soluciones en la nube robustas, seguras, modulares, e interoperables; es cada vez más común dentro de las organizaciones financieras en sus presupuestos operativo o de inversión en su digitalización del negocio.
+
+![Gráfico #2](/img/Grafico2_Mod_Negocio.png)
+**_Gráfico#2_**
  
-**Gráfico #1 **
+La implantación de **Canales Digitales de clase mundial en el sector bancario**, son proyectos donde se requiere de una infraestructura segura para que la confianza de los usuarios de tranzar por estos canales sea plena. Este motivo hace que la inversión en este apartado sea estratégica para cerrar brechas tecnológicas permitiendo a cualquier institución financiera poner a disposición de sus clientes lo último en **soluciones digitales**. Todo proyecto de Software tiene barreras de gestión en su implantación que se deben superar y que están asociadas al componente tecnológico. 
 
-El gasto mundial de TI se estima en un total de 3.7 billones de dólares en el 2018, lo que significa un aumento del 4.5% con respecto al 2017, según el último pronóstico de la consultora Gartner. Dentro de las tendencias el software empresarial continúa mostrando un sólido crecimiento, con un **gasto mundial de software que crecerá un 9,5% en 2018**, y crecerá otro 8,4% en 2019 hasta llegar a un total de $ 421 mil millones. En el pronóstico se espera que las organizaciones aumenten el gasto en software de aplicaciones empresariales en 2018, y que **una mayor parte del presupuesto se traslade al software como servicio (SaaS)**. La creciente disponibilidad de soluciones basadas en SaaS está fomentando nuevas adopciones y gastos en muchas subcategorías, como los sistemas de gestión financiera, la gestión del capital humano y las aplicaciones analíticas. Por lo tanto, confiar en las capacidades técnicas de gigantes de la industria como Amazon, Microsoft y Google para sustentar soluciones en la nube robustas, seguras, modulares, e interoperables sea cada vez más común dentro de las organizaciones financieras en sus presupuestos operativo o de inversión en su digitalización del negocio.
-
-**Gráfico #2 **
- 
-La implantación de Canales Digitales de clase mundial en el sector bancario, son proyectos donde se requiere de una infraestructura segura para que la confianza de los usuarios de tranzar por estos canales sea plena, este motivo hace que la inversión en este apartado sea estratégica para cerrar brechas tecnológicas permitiendo a cualquier institución financiera poner a disposición de sus clientes lo último en **soluciones digitales**. Todo proyecto de Software tiene barreras de gestión en su implantación que se deben superar y que están asociadas al componente tecnológico. A continuación, citamos algunas de las más comunes:
+A continuación, citamos algunas de las más comunes:
 
 - Los costos de licencias son considerables.
 - La infraestructura de TI que debe ser instalada, configurada, gestionada y certificada es demandante en recursos financieros y talento humano.
@@ -39,4 +47,5 @@ En síntesis, podemos decir que el paradigma **On Cloud - SaaS** implica el uso 
 
 Entonces optimicemos tiempo y dinero, porque implementar un Canal Digital en la Nube para una solución Bancaria siempre va a ser más rápido, menos costoso y con un retorno de inversión acelerado.
 
-**Gráfico #3 **
+![Gráfico #3](/img/Grafico3_Mod_Negocio.png)
+**_Gráfico#3_**
