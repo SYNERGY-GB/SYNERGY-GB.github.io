@@ -2,7 +2,7 @@
 layout: inner
 date: '2018-12-03 17:05 -0400'
 categories: Conocimientos
-published: false
+published: true
 ref: OnPremise vs OnCloud
 lang:
   - es
