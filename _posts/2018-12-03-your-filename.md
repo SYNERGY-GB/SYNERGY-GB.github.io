@@ -19,6 +19,7 @@ La creciente disponibilidad de soluciones basadas **SaaS** está fomentando nuev
 
 ![Gráfico #2](/img/Grafico2_Mod_Negocio.png)
 **_Gráfico#2_**
+
  
 La implantación de **Canales Digitales de clase mundial en el sector bancario**, son proyectos donde se requiere de una infraestructura segura para que la confianza de los usuarios de tranzar por estos canales sea plena. Este motivo hace que la inversión en este apartado sea estratégica para cerrar brechas tecnológicas permitiendo a cualquier institución financiera poner a disposición de sus clientes lo último en **soluciones digitales**. Todo proyecto de Software tiene barreras de gestión en su implantación que se deben superar y que están asociadas al componente tecnológico. 
 
