@@ -1,8 +1,30 @@
 ---
 layout: inner
 date: '2018-12-03 17:05 -0400'
-categories: Anuncios
+categories: Conocimientos
 published: false
+ref: OnPremise vs OnCloud
+lang:
+  - es
+tags:
+  - Modelos de Negocio
+  - Canales Digitales Bancarios
+  - OnPremise
+  - OnCloud
+  - Banking
+  - Trends
+  - Latinoamérica
+  - LATAM
+  - Innovación
+  - Synergy-GB
+author: Andry Rivas
+author_pic: Andry_Rivas.jpg
+author_email: andry.rivas@synergy-gb.com
+lead_text: >-
+  Dado que implementar un canal digital en la nube para una solución bancaria
+  siempre va a ser más rápido, menos costoso y con un retorno de inversión
+  acelerado; definitivamente en los países Latinoamericanos donde todavía la
+  regulación no lo permite ! deben liberar esta restricción cuanto antes !
 ---
 ## El Gran dilema entre el paradigma On Premise y el On Cloud (SaaS) en un canal digital Bancario
 
@@ -52,3 +74,7 @@ Entonces optimicemos tiempo y dinero, porque implementar un **Canal Digital en l
 
 ![Gráfico #3](/img/Grafico3_Mod_Negocio.png)
 **_Gráfico#3_**
+
+Son millones de usuarios que utilizan nuestra aplicaciones Bancarias en Latinoamérica, que se benefician de una experiencia funcional y enriquecida.
+
+Visita [nuestra página principal http://synergy-gb.com](http://synergy-gb.com) y entérate de nuestra propuesta de valor.
