@@ -25,6 +25,7 @@ lead_text: >-
   siempre va a ser más rápido, menos costoso y con un retorno de inversión
   acelerado; definitivamente en los países Latinoamericanos donde todavía la
   regulación no lo permite ! deben liberar esta restricción cuanto antes !
+local_featured_image: Mod_OnPREMvsOnCLOUD.jpg
 ---
 ## El Gran dilema entre el paradigma On Premise y el On Cloud (SaaS) en un canal digital Bancario
 
